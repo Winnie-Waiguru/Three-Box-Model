@@ -1,13 +1,28 @@
-h1{
-    border: solid 40px blue;
-    border-width: 50px;
-    font-size: larger;
-    padding: 40px 60px 40px 60px;
-    margin: 10% 20% 20% 12%;
-    align-items: center;
-    text-align: center;
-    outline: solid 80px pink;
-    width: 40%;
-    border:solid 160px saddlebrown;
+#container{
+    padding: 100px 20px 100px 80px;
+
+
+}
+
+.box-one{
+    border: solid 60px #006139;
+    width:20%;
+    outline: solid 2px black;
+    margin-left: 60px;
+    position:absolute;
+    margin-left:400px;   
+}
+
+.box-two{
+    border:solid 120px  #4EE692;
+    outline: solid 2px black;
     
+}
+
+.box-three{
+    border: solid 50px #E0C114;
+    width:20%;
+    padding-right:40%;
+    outline: solid 2px black;
+    margin:-40px;
 }
