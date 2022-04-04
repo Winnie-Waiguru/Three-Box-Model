@@ -1,0 +1,13 @@
+h1{
+    border: solid 40px blue;
+    border-width: 50px;
+    font-size: larger;
+    padding: 40px 60px 40px 60px;
+    margin: 10% 20% 20% 12%;
+    align-items: center;
+    text-align: center;
+    outline: solid 80px pink;
+    width: 40%;
+    border:solid 160px saddlebrown;
+    
+}
